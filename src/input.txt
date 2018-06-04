@@ -1,0 +1,9 @@
+AddCustomer 33 sampleName sampleSurname 234-5677896 Address of the customer or any where else
+AddCustomer 88 Antonio Giovanni 568-8964142 an other address that doesn't exist
+RemoveCustomer 35
+CreateOrder 5 45
+AddPizza 5 AmericanPan Salami Soudjouk
+AddPizza 5 Neapolitan HotPepper Onion
+AddDrink 5
+PayCheck 5
+ListCustomers

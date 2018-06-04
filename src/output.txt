@@ -1,0 +1,20 @@
+Customer 33 sampleName added
+Customer 88 Antonio added
+Customer 35 Murat removed
+Order 5 created
+AmericanPan pizza added to order 5
+Neapolitan pizza added to order 5
+Drink added to order 5
+PayCheck for order 5
+	AmericanPan Salami Soudjouk 11$
+	Neapolitan HotPepper Onion 13$
+	SoftDrink 1$
+	Total: 25$
+Customer List:
+88 Antonio Giovanni 568-8964142 an other address that doesn't exist
+27 Emit Brown 234-3456789 Hacettepe University Department of Matemathics
+21 Hasan Erdal 256-3456789 Eryaman 3. Etap 12/7
+45 Hatice AK 568-8969746 Cebeci 56 cd. 34/5
+12 John Smith 312-4567890 Acm eInsuranceCo. Carrew Towers 300 E M ain StRm 1121
+4 Osman Kurt 568-8967812 Tandogan 34 sk. 56/3
+33 sampleName sampleSurname 234-5677896 Address of the customer or any where else
